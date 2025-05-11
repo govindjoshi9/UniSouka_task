@@ -1,0 +1,56 @@
+.hero-section {
+    padding: 80px 0;
+    text-align: center;
+  }
+
+  .hero-content h1 {
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    line-height: 1.2;
+  }
+
+  .text-purple {
+    color: #6366f1;
+  }
+
+  .hero-content p {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 30px;
+  }
+
+  .cta-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 20px;
+  }
+
+  /* Trusted Section */
+  .trusted-section {
+    padding: 40px 0;
+    background-color: #f9fafb;
+  }
+
+  .trusted-title {
+    text-align: center;
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #6b7280;
+    margin-bottom: 20px;
+  }
+
+  .logo-grid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 40px;
+  }
+
+  .logo-item {
+    color: #6b7280;
+    font-weight: 500;
+  }

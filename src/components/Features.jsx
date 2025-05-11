@@ -1,5 +1,4 @@
-import React from 'react'
-
+import './Features.css'
 const Features = () => {
   return (
     <div>
@@ -27,8 +26,10 @@ const Features = () => {
               </ul>
             </div>
             <div className="feature-image">
-              <div className="image-container yellow-bg">
-                <div className="astronaut-image"></div>
+              <div className="image-container">
+                <div className="astronaut-image">
+                  <img src="/astronaut-image.png" alt="image" />
+                </div>
               </div>
             </div>
           </div>
@@ -56,8 +57,10 @@ const Features = () => {
               </ul>
             </div>
             <div className="feature-image">
-              <div className="image-container yellow-bg">
-                <div className="automation-image"></div>
+              <div className="image-container ">
+                <div className="">
+                  <img src="/automation-image.png" alt="image" />
+                </div>
               </div>
             </div>
           </div>

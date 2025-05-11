@@ -1,4 +1,4 @@
-import React from 'react'
+import './Blog.css'
 
 const BlogProject = () => {
   return (
